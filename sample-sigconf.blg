@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: sample-sigconf.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+The style file: ACM-Reference-Format.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: bibfile.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--empty publisher in 19
+Warning--empty address in 19
+Warning--empty publisher in 2
+Warning--empty address in 2
+Warning--empty publisher in 5
+Warning--empty address in 5
+Warning--empty publisher in 3
+Warning--empty address in 3
+Warning--empty publisher in 9
+Warning--empty address in 9
+Warning--empty publisher in 1
+Warning--empty address in 1
+Warning--empty publisher in 8
+Warning--empty address in 8
+Warning--empty publisher in 16
+Warning--empty address in 16
+Warning--empty publisher in 4
+Warning--empty address in 4
+You've used 13 entries,
+            5959 wiz_defined-function locations,
+            1547 strings with 20586 characters,
+and the built_in function-call counts, 16383 in all, are:
+= -- 1961
+> -- 567
+< -- 2
++ -- 193
+- -- 196
+* -- 1162
+:= -- 1621
+add.period$ -- 73
+call.type$ -- 13
+change.case$ -- 91
+chr.to.int$ -- 13
+cite$ -- 31
+duplicate$ -- 1480
+empty$ -- 1038
+format.name$ -- 240
+if$ -- 3909
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 55
+newline$ -- 190
+num.names$ -- 104
+pop$ -- 548
+preamble$ -- 1
+purify$ -- 208
+quote$ -- 0
+skip$ -- 528
+stack$ -- 0
+substring$ -- 1269
+swap$ -- 154
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 304
+warning$ -- 18
+while$ -- 100
+width$ -- 0
+write$ -- 309
+(There were 18 warnings)

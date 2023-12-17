@@ -1,0 +1,252 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{13}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Chaudhary, Vyas, and Jha}{Chaudhary
+  et~al\mbox{.}}{2023}]%
+        {19}
+\bibfield{author}{\bibinfo{person}{J. Chaudhary}, \bibinfo{person}{V. Vyas},
+  {and} \bibinfo{person}{C.~K. Jha}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Qualitative Analysis of SQL and NoSQL
+  Database with an Emphasis on Performance}}. \bibinfo{series}{Smart
+  Innovation, Systems and Technologies}, Vol.~\bibinfo{volume}{312}.
+\newblock 155--165 pages.
+\newblock
+\urldef\tempurl%
+\url{www.scopus.com}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Győrödi, Dumşe-Burescu, Zmaranda,
+  Győrödi, Gabor, and Pecherle}{Győrödi et~al\mbox{.}}{2020}]%
+        {17}
+\bibfield{author}{\bibinfo{person}{C.~A. Győrödi}, \bibinfo{person}{D.~V.
+  Dumşe-Burescu}, \bibinfo{person}{D.~R. Zmaranda}, \bibinfo{person}{R.~Ş.
+  Győrödi}, \bibinfo{person}{G.~A. Gabor}, {and} \bibinfo{person}{G.~D.
+  Pecherle}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Performance analysis of nosql and relational
+  databases with couchdb and mysql for application’s data storage}.
+\newblock \bibinfo{journal}{\emph{Applied Sciences (Switzerland)}}
+  \bibinfo{volume}{10}, \bibinfo{number}{23} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{1--21}.
+\newblock
+\urldef\tempurl%
+\url{www.scopus.com}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Cited By :7.}
+
+
+\bibitem[\protect\citeauthoryear{Hassan}{Hassan}{2021}]%
+        {2}
+\bibfield{author}{\bibinfo{person}{Mohammad~A. Hassan}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Relational and NoSQL Databases: The Appropriate
+  Database Model Choice}. In \bibinfo{booktitle}{\emph{2021 22nd International
+  Arab Conference on Information Technology (ACIT)}}. \bibinfo{pages}{1--6}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ACIT53391.2021.9677042}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Jung, Youn, Bae, and Choi}{Jung
+  et~al\mbox{.}}{2015}]%
+        {5}
+\bibfield{author}{\bibinfo{person}{Min-Gyue Jung}, \bibinfo{person}{Seon-A
+  Youn}, \bibinfo{person}{Jayon Bae}, {and} \bibinfo{person}{Yong-Lak Choi}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{A Study on Data Input and Output Performance
+  Comparison of MongoDB and PostgreSQL in the Big Data Environment}. In
+  \bibinfo{booktitle}{\emph{2015 8th International Conference on Database
+  Theory and Application (DTA)}}. \bibinfo{pages}{14--17}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/DTA.2015.14}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kanchan, Kaur, and Apoorva}{Kanchan
+  et~al\mbox{.}}{2021}]%
+        {14}
+\bibfield{author}{\bibinfo{person}{S. Kanchan}, \bibinfo{person}{P. Kaur},
+  {and} \bibinfo{person}{P. Apoorva}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Empirical Evaluation of NoSQL and Relational
+  Database Systems}.
+\newblock \bibinfo{journal}{\emph{Recent Advances in Computer Science and
+  Communications}} \bibinfo{volume}{14}, \bibinfo{number}{8}
+  (\bibinfo{year}{2021}), \bibinfo{pages}{2637--2650}.
+\newblock
+\urldef\tempurl%
+\url{www.scopus.com}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Cited By :1.}
+
+
+\bibitem[\protect\citeauthoryear{Li and Manoharan}{Li and Manoharan}{2013}]%
+        {3}
+\bibfield{author}{\bibinfo{person}{Yishan Li} {and}
+  \bibinfo{person}{Sathiamoorthy Manoharan}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{A performance comparison of SQL and NoSQL
+  databases}. In \bibinfo{booktitle}{\emph{2013 IEEE Pacific Rim Conference on
+  Communications, Computers and Signal Processing (PACRIM)}}.
+  \bibinfo{pages}{15--19}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/PACRIM.2013.6625441}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Palanisamy and SuvithaVani}{Palanisamy and
+  SuvithaVani}{2020}]%
+        {9}
+\bibfield{author}{\bibinfo{person}{Sowndarya Palanisamy} {and}
+  \bibinfo{person}{P. SuvithaVani}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{A survey on RDBMS and NoSQL Databases MySQL vs
+  MongoDB}. In \bibinfo{booktitle}{\emph{2020 International Conference on
+  Computer Communication and Informatics (ICCCI)}}. \bibinfo{pages}{1--7}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ICCCI48352.2020.9104047}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Sahatqija, Ajdari, Zenuni, Raufi, and
+  Ismaili}{Sahatqija et~al\mbox{.}}{2018}]%
+        {1}
+\bibfield{author}{\bibinfo{person}{Kosovare Sahatqija}, \bibinfo{person}{Jaumin
+  Ajdari}, \bibinfo{person}{Xhemal Zenuni}, \bibinfo{person}{Bujar Raufi},
+  {and} \bibinfo{person}{Florije Ismaili}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Comparison between relational and NOSQL databases}.
+  In \bibinfo{booktitle}{\emph{2018 41st International Convention on
+  Information and Communication Technology, Electronics and Microelectronics
+  (MIPRO)}}. \bibinfo{pages}{0216--0221}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.23919/MIPRO.2018.8400041}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Sandeep~Kumar and Prabhu}{Sandeep~Kumar and
+  Prabhu}{2018}]%
+        {15}
+\bibfield{author}{\bibinfo{person}{M. Sandeep~Kumar} {and} \bibinfo{person}{J.
+  Prabhu}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Comparison of nosql database and traditional
+  database-an emphatic analysis}.
+\newblock \bibinfo{journal}{\emph{International Journal on Informatics
+  Visualization}} \bibinfo{volume}{2}, \bibinfo{number}{2}
+  (\bibinfo{year}{2018}), \bibinfo{pages}{51--55}.
+\newblock
+\urldef\tempurl%
+\url{www.scopus.com}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Cited By :5.}
+
+
+\bibitem[\protect\citeauthoryear{Sirish~Shetty and Akshay}{Sirish~Shetty and
+  Akshay}{2019}]%
+        {8}
+\bibfield{author}{\bibinfo{person}{B Sirish~Shetty} {and} \bibinfo{person}{KC
+  Akshay}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Performance Analysis of Queries in RDBMS vs NoSQL}.
+  In \bibinfo{booktitle}{\emph{2019 2nd International Conference on Intelligent
+  Computing, Instrumentation and Control Technologies (ICICICT)}},
+  Vol.~\bibinfo{volume}{1}. \bibinfo{pages}{1283--1286}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ICICICT46008.2019.8993394}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Srivastava}{Srivastava}{2019}]%
+        {20}
+\bibfield{author}{\bibinfo{person}{N. Srivastava}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Nosql - A solution for handling big data}.
+\newblock \bibinfo{journal}{\emph{International Journal of Engineering and
+  Advanced Technology}} \bibinfo{volume}{9}, \bibinfo{number}{1}
+  (\bibinfo{year}{2019}), \bibinfo{pages}{7606--7610}.
+\newblock
+\urldef\tempurl%
+\url{www.scopus.com}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Uyanga, Munkhtsetseg, Batbayar, and
+  Bat-Ulzii}{Uyanga et~al\mbox{.}}{2021}]%
+        {16}
+\bibfield{author}{\bibinfo{person}{S. Uyanga}, \bibinfo{person}{N.
+  Munkhtsetseg}, \bibinfo{person}{S. Batbayar}, {and} \bibinfo{person}{S.
+  Bat-Ulzii}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{A Comparative Study of NoSQL and Relational
+  Database}}. \bibinfo{series}{Smart Innovation, Systems and Technologies},
+  Vol.~\bibinfo{volume}{212}.
+\newblock 116--122 pages.
+\newblock
+\urldef\tempurl%
+\url{www.scopus.com}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Cited By :1.}
+
+
+\bibitem[\protect\citeauthoryear{Zafar, Yafi, Zuhairi, and Dao}{Zafar
+  et~al\mbox{.}}{2016}]%
+        {4}
+\bibfield{author}{\bibinfo{person}{Rashid Zafar}, \bibinfo{person}{Eiad Yafi},
+  \bibinfo{person}{Megat~F. Zuhairi}, {and} \bibinfo{person}{Hassan Dao}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Big Data: The NoSQL and RDBMS review}. In
+  \bibinfo{booktitle}{\emph{2016 International Conference on Information and
+  Communication Technolog(ICICTM)}}. \bibinfo{pages}{120--126}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ICICTM.2016.7890788}
+\showDOI{\tempurl}
+
+
+\end{thebibliography}
